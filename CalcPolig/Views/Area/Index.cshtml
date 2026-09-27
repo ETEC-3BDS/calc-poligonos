@@ -1,0 +1,35 @@
+﻿@model CalcPolig.Models.AreaModel
+
+<h1>Calculadora de Áreas</h1>
+
+<h2>🔺 Triângulo</h2>
+
+<form method="post" action="/Area/Calcular">
+
+    <label>Base:</label>
+    <input type="number" name="Base" step="any" />
+
+    <br />
+    <br />
+
+    <label>Altura:</label>
+    <input type="number" name="Altura" step="any" />
+
+    <br />
+    <br />
+
+    <button type="submit">
+        Calcular
+    </button>
+
+</form>
+
+@if (Model != null && Model.Resultado > 0)
+{
+    <h2>🎉 Resultado</h2>
+
+    <p>
+        A área do triângulo é:
+        <strong>@Model.Resultado</strong>
+    </p>
+}

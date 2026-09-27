@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\views\\area\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\views\\area\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\models\\areamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\models\\areamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|c:\\users\\thiag\\desktop\\calc-poligonos\\calcpolig\\calcpolig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0107FC79-E2A4-E87E-5291-FEBEE3EC64F3}|CalcPolig\\CalcPolig.csproj|solutionrelative:calcpolig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalcPolig\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalcPolig\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T19:29:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Program.cs",
+              "RelativeDocumentMoniker": "CalcPolig\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Program.cs",
+              "RelativeToolTip": "CalcPolig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:27:21.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "CalcPolig\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "CalcPolig\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:03:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CalcPolig\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CalcPolig\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:02:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Views\\Area\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalcPolig\\Views\\Area\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Views\\Area\\Index.cshtml",
+              "RelativeToolTip": "CalcPolig\\Views\\Area\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T18:52:35.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Models\\AreaModel.cs",
+              "RelativeDocumentMoniker": "CalcPolig\\Models\\AreaModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\calc-poligonos\\CalcPolig\\CalcPolig\\Models\\AreaModel.cs",
+              "RelativeToolTip": "CalcPolig\\Models\\AreaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:48:24.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
